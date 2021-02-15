@@ -1,5 +1,6 @@
-package com.company;
+// Copyright @ learning programming academy
 //(the whole code are cited from learning progamming academy "https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/")
+package com.company;
 public class object {
 
     private String firstName;
