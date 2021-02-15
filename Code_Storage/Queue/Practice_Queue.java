@@ -1,3 +1,4 @@
+// Copyright @ learning programming academy
 package com.company;
 // cited from learning programming academy "https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/")
 import java.util.NoSuchElementException;
